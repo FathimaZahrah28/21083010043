@@ -1,0 +1,11 @@
+print("----------------------------------")
+print(" Tugas 1 SISOP KELAS A")
+print("----------------------------------")
+print("Nama: Fathima Zahrah")
+print("NPM : 21083010043")
+print("----------------------------------")
+print("notes : ")
+print("----------------------------------")
+print("Halo Dunia !")
+print(" ini adalah script pertama ku dibash")
+
